@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+Espero aprender e contribuir com a comunidade!
+
+Linkedin: www.linkedin.com/in/igorlopesdev180
+
+Conhecimento: HTML5, CSS3, JAVASCRIPT.
+Aprendendo: REACT NATIVE, NodeJS e SQL.
+
+
+Saudações para todos!
+
+
+
 <!--
 **idlopesdev54/idlopesdev54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
