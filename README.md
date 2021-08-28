@@ -4,9 +4,9 @@ Espero aprender e contribuir com a comunidade!
 
 Linkedin: www.linkedin.com/in/igorlopesdev180
 
-Conhecimento: HTML5, CSS3, JAVASCRIPT.
+Conhecimento: HTML5, CSS3, JAVASCRIPT & REACT NATIVE.
 
-Learning: REACT NATIVE, NODEJS e SQL.
+Learning: NODEJS e SQL.
 
 
 Saudações para todos!
