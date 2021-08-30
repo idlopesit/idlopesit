@@ -3,6 +3,7 @@
 Espero aprender e contribuir com a comunidade!
 
 Linkedin: www.linkedin.com/in/igorlopesdev180
+
 Meu portfólio: https://idlopesdev54.github.io/meuPortfolio/
 
 Conhecimento: HTML5, CSS3, JAVASCRIPT & REACT NATIVE.
