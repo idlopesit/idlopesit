@@ -5,11 +5,12 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=idlopesdev54&show_icons=true&theme=vision-friendly-dark" alt="id stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idlopesdev54&layout=compact&theme=vision-friendly-dark" alt="idlopesdev54 most languages"/>
-</p>
--->
+<div align="center">
+  <a href="https://github.com/idlopesdev54">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=idlopesdev54&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idlopesdev54&layout=compact&langs_count=7&theme=midnight-purple"/></a>
+</div>
+
 
 <br><br>
 
