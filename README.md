@@ -1,7 +1,5 @@
 ### Opa! Seja bem vindo!👋
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Igor Lopes&fontSize=30&fontColor=000&animation=twinkling&fontAlignY=35"/> 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Salve,+Eu+sou+o+Igor;Bora+crescer!)](https://git.io/typing-svg)
 
 
