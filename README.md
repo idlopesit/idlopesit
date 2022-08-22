@@ -1,6 +1,6 @@
 ### Opa! Seja bem vindo!👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Salve,+Eu+sou+o+Igor;Bora+crescer!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Opa,+Eu+sou+o+Igor;Atingindo+metas!)](https://git.io/typing-svg)
 
 
 <br><br>
