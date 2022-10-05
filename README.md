@@ -8,16 +8,16 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/idlopesdev54">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=idlopesdev54&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idlopesdev54&layout=compact&langs_count=7&theme=blue-green"/></a>
+  <a href="https://github.com/idlopesit">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=idlopesit&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idlopesit&layout=compact&langs_count=7&theme=blue-green"/></a>
 </div>
 
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=idlopesdev54&theme=gotham&hide_border=true&area=true)
+![Contribution](https://activity-graph.herokuapp.com/graph?username=idlopesit&theme=gotham&hide_border=true&area=true)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=idlopesdev54&theme=blue-green&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=idlopesit&theme=blue-green&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <br><br>
@@ -50,7 +50,7 @@
 
   <div align="center">
 <br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{idlopesdev54}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{idlopesit}/count.svg" /></p> 
 <br></div>
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>****
 
