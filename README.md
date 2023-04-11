@@ -1,4 +1,4 @@
-### Opa! Seja bem vindo!👋
+### Opa! Manda um salve!👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Opa,+Eu+sou+o+Igor;No+pain+,+No+gain!)](https://git.io/typing-svg)
 
