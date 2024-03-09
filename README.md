@@ -7,19 +7,13 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<div align="center">
-  <a href="https://github.com/idlopesit">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=idlopesit&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idlopesit&layout=compact&langs_count=7&theme=blue-green"/></a>
-</div>
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=idlopesit&theme=blue-green&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 <br>
   </div>
 
-  ## Walking for Devops carrer!
+  ## Vamo pra cima!!
   
   ### My Skills:
   
